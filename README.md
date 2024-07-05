@@ -6,9 +6,7 @@ This is a simple flash card app that users can use to create flashcard sets for 
 
 My purpose for creating this app was to gain experince and understadning of programing a mobile app. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_SOo2k0BuH0)
 
 # Development Environment
 I used x-code as the main platform for bulding this project. X-code is an platform from Apple that iOS users can use to program and write iOS applications.  
