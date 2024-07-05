@@ -14,6 +14,7 @@
 		F2C4EB432C2E1E2E00EAF476 /* Flash_Card_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C4EB422C2E1E2E00EAF476 /* Flash_Card_AppTests.swift */; };
 		F2C4EB4D2C2E1E2E00EAF476 /* Flash_Card_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C4EB4C2C2E1E2E00EAF476 /* Flash_Card_AppUITests.swift */; };
 		F2C4EB4F2C2E1E2E00EAF476 /* Flash_Card_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C4EB4E2C2E1E2E00EAF476 /* Flash_Card_AppUITestsLaunchTests.swift */; };
+		F2C4EB5C2C2E1F8C00EAF476 /* Flashcard.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C4EB5B2C2E1F8C00EAF476 /* Flashcard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,8 @@
 		F2C4EB482C2E1E2E00EAF476 /* Flash Card AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Flash Card AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2C4EB4C2C2E1E2E00EAF476 /* Flash_Card_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flash_Card_AppUITests.swift; sourceTree = "<group>"; };
 		F2C4EB4E2C2E1E2E00EAF476 /* Flash_Card_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flash_Card_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F2C4EB5B2C2E1F8C00EAF476 /* Flashcard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flashcard.swift; sourceTree = "<group>"; };
+		F2DA0D412C385E4A00037534 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +77,7 @@
 		F2C4EB252C2E1E2B00EAF476 = {
 			isa = PBXGroup;
 			children = (
+				F2DA0D412C385E4A00037534 /* README.md */,
 				F2C4EB302C2E1E2B00EAF476 /* Flash Card App */,
 				F2C4EB412C2E1E2E00EAF476 /* Flash Card AppTests */,
 				F2C4EB4B2C2E1E2E00EAF476 /* Flash Card AppUITests */,
@@ -96,6 +100,7 @@
 			children = (
 				F2C4EB312C2E1E2B00EAF476 /* Flash_Card_AppApp.swift */,
 				F2C4EB332C2E1E2B00EAF476 /* ContentView.swift */,
+				F2C4EB5B2C2E1F8C00EAF476 /* Flashcard.swift */,
 				F2C4EB352C2E1E2D00EAF476 /* Assets.xcassets */,
 				F2C4EB372C2E1E2D00EAF476 /* Preview Content */,
 			);
@@ -257,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2C4EB5C2C2E1F8C00EAF476 /* Flashcard.swift in Sources */,
 				F2C4EB342C2E1E2B00EAF476 /* ContentView.swift in Sources */,
 				F2C4EB322C2E1E2B00EAF476 /* Flash_Card_AppApp.swift in Sources */,
 			);
