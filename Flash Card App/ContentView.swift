@@ -27,7 +27,7 @@ struct ContentView: View {
             }
             .navigationTitle("Flashcard Sets")
             .navigationBarItems(
-                leading: ShareLink(item: URL(string: "https://developer.apple.com/xcode/swiftui")!),
+                leading: ShareLink(item: URL(string: "https://github.com/nashjar000/Flash-Card-App")!),
                 trailing: Button(action: {
                     // Show the view to add a new flashcard set
                     showingAddFlashcardSetView = true
